@@ -1,9 +1,14 @@
-package org.example;
+package Dao.Impl;
+
+import Dao.CharacterDao;
+import app.Character;
+import app.Position;
+import app.RoleGame;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class CharacterDaoImpl implements CharacterDao{
+public class CharacterDaoImpl implements CharacterDao {
 
     private final List<Character> characterList = new ArrayList<>();
 

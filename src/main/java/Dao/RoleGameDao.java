@@ -1,4 +1,6 @@
-package org.example;
+package Dao;
+
+import app.RoleGame;
 
 import java.util.List;
 
