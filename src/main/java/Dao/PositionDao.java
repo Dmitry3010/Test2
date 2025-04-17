@@ -1,6 +1,6 @@
 package Dao;
 
-import app.Position;
+import App.Position;
 
 import java.util.List;
 

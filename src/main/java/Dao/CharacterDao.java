@@ -1,6 +1,6 @@
 package Dao;
 
-import app.Character;
+import App.Character;
 
 import java.util.List;
 

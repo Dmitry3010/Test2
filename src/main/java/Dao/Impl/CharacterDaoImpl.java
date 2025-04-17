@@ -1,9 +1,9 @@
 package Dao.Impl;
 
 import Dao.CharacterDao;
-import app.Character;
-import app.Position;
-import app.RoleGame;
+import App.Character;
+import App.Position;
+import App.RoleGame;
 
 import java.util.ArrayList;
 import java.util.List;
