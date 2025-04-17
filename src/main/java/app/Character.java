@@ -1,4 +1,4 @@
-package elements_app;
+package app;
 
 public class Character {
 

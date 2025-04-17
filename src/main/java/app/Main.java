@@ -1,6 +1,4 @@
-package elements_app;
-
-import java.util.List;
+package app;
 
 public class Main {
 

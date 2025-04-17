@@ -1,7 +1,7 @@
 package Dao.Impl;
 
 import Dao.RoleGameDao;
-import elements_app.RoleGame;
+import app.RoleGame;
 
 import java.util.ArrayList;
 import java.util.List;

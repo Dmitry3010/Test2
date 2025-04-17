@@ -1,6 +1,6 @@
 package Dao;
 
-import elements_app.RoleGame;
+import app.RoleGame;
 
 import java.util.List;
 
