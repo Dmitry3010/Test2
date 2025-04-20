@@ -1,7 +1,7 @@
 package dao.impl;
 
 import dao.PositionDao;
-import app.Position;
+import model.Position;
 
 import java.util.ArrayList;
 import java.util.List;
