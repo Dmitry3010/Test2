@@ -1,6 +1,4 @@
-package org.example;
-
-import java.util.List;
+package app;
 
 public class Main {
 

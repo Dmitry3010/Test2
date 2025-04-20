@@ -1,9 +1,12 @@
-package org.example;
+package dao.impl;
+
+import dao.PositionDao;
+import app.Position;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class PositionDaoImpl implements PositionDao{
+public class PositionDaoImpl implements PositionDao {
 
     private final List<Position> positionList = new ArrayList<>();
 

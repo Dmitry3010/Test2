@@ -1,4 +1,6 @@
-package org.example;
+package dao;
+
+import app.Position;
 
 import java.util.List;
 

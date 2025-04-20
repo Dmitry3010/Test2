@@ -1,9 +1,12 @@
-package org.example;
+package dao.impl;
+
+import dao.RoleGameDao;
+import app.RoleGame;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class RoleGameDaoImpl implements RoleGameDao{
+public class RoleGameDaoImpl implements RoleGameDao {
 
     private final List<RoleGame> roleGameList = new ArrayList<>();
 
