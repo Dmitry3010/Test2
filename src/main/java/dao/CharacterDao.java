@@ -10,6 +10,5 @@ public interface CharacterDao {
     List<Character> findAllCharacter();
     Character findCharacterByName(String name);
     Character findCharacterById(int characterId);
-//    boolean findCharacterByName(String name, int age);
     List<Character> findCharactersByPositionIdAndRoleId(int positionId, int roleId);
 }
