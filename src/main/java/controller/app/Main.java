@@ -1,9 +1,9 @@
-package app;
+package controller.app;
 
 public class Main {
 
     public static void main(String[] args) {
-        // тут тестировался метод списка ролей
+
 //        RoleGameDao roleGameDao = new RoleGameDaoImpl();
 //        List<RoleGame> roleGames = roleGameDao.findRolesGame();
 //        System.out.println(roleGames);
